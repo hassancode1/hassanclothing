@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1690830119037,
+      "tag": "0000_wakeful_the_executioner",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1691319547293,
+      "tag": "0001_curvy_madrox",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1691323659974,
+      "tag": "0002_mixed_tenebrous",
+      "breakpoints": false
+    }
+  ]
+}
